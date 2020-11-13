@@ -1,3 +1,11 @@
+## :sparkle: Conclusão do Desafio
+
+<p align="center">
+  <img  src="./assets/desafio-concluido.png">
+</p>
+
+##
+
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
